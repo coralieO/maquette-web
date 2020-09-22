@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav i{
+    color: palevioletred;
+    margin-left: 20px;
+    
+}
+nav{
+    background-color: white;
+    height: 20vh;
+    width: 80%;
+}
+nav a p{
+    color: black;
+    font-size: 1em;
+    text-decoration: none;
+}
+.menu{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    height: 20vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#img{
+    height: 80vh;
+
+}
+#bande{
+    background-color: rgb(255, 144, 181);
+    height: 5vh;
+    width: 80%;
+}
+#contenu{
+    background-color: white;
+    height: 80vh;
+    width: 80%;
+    padding-top: 30px;
+}
+.border{
+    border-top:  rgb(177, 172, 172) 1px solid;
+    border-left:  rgb(177, 172, 172) 1px solid;
+    border-right: rgb(177, 172, 172) 1px solid;
+    width: 75%;
+    height: 10vh;
+    margin: 0px 100px;
+}
+h2{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 15px;
+}
+h3{
+    font-size: 0.70em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(236, 113, 113);
+}
+.icons{
+    color: rgb(236, 113, 113);
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-top: 40px;  
+}
+li i{
+    margin-left: 25px;
+}
+.choisir{
+    margin-top: 165px;
+}
